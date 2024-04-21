@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITLAssessmentWebapp/1.0.0": {
+        "dependencies": {
+          "AnalyzerCore": "1.0.0"
+        },
+        "runtime": {
+          "ITLAssessmentWebapp.dll": {}
+        }
+      },
+      "AnalyzerCore/1.0.0": {
+        "runtime": {
+          "AnalyzerCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITLAssessmentWebapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnalyzerCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

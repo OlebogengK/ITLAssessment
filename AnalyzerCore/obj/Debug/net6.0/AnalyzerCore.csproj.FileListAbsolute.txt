@@ -1,0 +1,11 @@
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\bin\Debug\net6.0\AnalyzerCore.deps.json
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\bin\Debug\net6.0\AnalyzerCore.dll
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\bin\Debug\net6.0\AnalyzerCore.pdb
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.AssemblyInfoInputs.cache
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.AssemblyInfo.cs
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.csproj.CoreCompileInputs.cache
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.dll
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\refint\AnalyzerCore.dll
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\AnalyzerCore.pdb
+C:\Users\otkhake\Documents\ITLAssessment\AnalyzerCore\obj\Debug\net6.0\ref\AnalyzerCore.dll

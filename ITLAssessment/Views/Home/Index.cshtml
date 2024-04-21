@@ -1,0 +1,6 @@
+﻿@model ITLAssessmentWebapp.Models.FileViewModel
+
+<form method="post" enctype="multipart/form-data" asp-controller="Analyzer" asp-action="AnalyzeCSVFile">
+    <input type="file" name="CSVFile" />
+    <button type="submit">Analyze</button>
+</form>
